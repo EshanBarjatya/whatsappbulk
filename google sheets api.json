@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "tranquil-buffer-411417",
+  "private_key_id": "557e8f9d4a140e3be5832d35592d0911ac381b51",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDl5Yxiub2Ji2qA\ntVlvCeOVZRmqvbttEW/oxwghufAPXROqpgUoqGd8K2a2TVilTPQE+b6GTxJxuA7n\ncQROhikLxNO6sHcazBy5qa1Ii4Hjeng2kAxrzCa14isFNsGDJKzSlTvrYrE600lv\naFa/mlaLDPVBzbD7saW2EiVpDElDkO+cNsoKeKOSCSB+ulcuSktk2WBlcdcOKdMu\naC9+SQTBlK9DLJmBEFB9wVXP/GmiQq3autrv+ttfNsmu7k5qblt8w4HCrkhYunEo\nNjETeugH35PiSn1JKZgA+xq0/lFff9rxyC5Sa6j+h1LzFUkS/exrlpGw6ZcW1wwP\nOtcrebJ5AgMBAAECggEABMHOHyenXHm/v4ZBIZmR4oAzJ3cBy/BEIXJ0E7j68GGl\nXwh/0dQOQO6a+cm6IsC0lrr31MqjeV2GijmqwT81PGxoHy3rzc7ZOoRGzo0u2yvb\ne4smhQwcsiXKBk0YQWQlL73tY/tot5/L0YJv5rFFLV81+GGCHusrOfKNLWvKKYI2\n6azM2hTQtX5ouQwEyJcl0DU02AtyOR92pDZhUESgRPLLq2QuQ9clf9eI4KQi8CA1\nCG/aTIZT8vm/qZwgIHELlE8r8iiFP4KQB/N1UPQXhxqzsaTHS1YlZ+YyGW1Fhlch\n0NgqFl+c30UlopTg9h21S3Tn70+eS+7BOqoOzGX6SQKBgQD4qJZWt8HCuVBFsLwm\nkNBEZYG4QT7YE6wWsMeQB3eojVifvCl7j6x84vM1sPwYKIeenO9xPh8DuyNDiIq6\ntABY5I0qCXxVXXH6o9ZbHZM9cku8C6aKPNN9ka/kuJSV3Yu+aw0louROUwU65DH+\nqFUbXZfRjCDqV6j6iEB68X8E3QKBgQDsryevW4lUDiR5Hv04rJd+ojJAGNFd5rW7\n8qVgC4J7c46SUHcSYsRcBFMr7JhhvH4S1rTUExyFrGbXxBOMNJ0C9jt3i6ZPU0no\nphxatMGwIpG11MbY19lLhujSHm+hpJoq6l7i1CuUzCm1MMB0CvlsFa2dsFFKf3Bz\nFVsT25hsTQKBgA8qUQj26hVTMgceEUuU127kdfXj3M5W3M8BdxpcqjqYbEhJtIn5\nqD5xpP2oTqe2iRbuYVgZvtB+cFclE7jxU3gYcFeY/oFCUrpDlcY21o0P1HiiiUSz\nEv78jKq5ay58tZIme0XJWn1AaPg/hKEQaShjG+hG0JcaQ48MEkqtQd7tAoGBAJMq\nvfRNaHB5crhVSoJo3rIAzFoKlHRctfetgqLbxUBZs/bKTZ+DBjFpBwYy0PVErOet\n1TZgw8ViU3gqFTWCqXZkAMnubXS5hyU/1DWaWyzX8d4r9ZBzdkt+EVpFToglvy6c\nGG/WGVsmL3DYZXJCOKC6Qf/g2EsIPrVwO/d2/ampAoGAOdhxX5oWiHY47Na98dej\neAzHv29rbsVf9cgK1bkosHJ396XQB9nPhTaM8lhPjyoOcMolrrNYpcWOSaX9TDnf\nyl8LXetqICHK15hYocHvA77nBvO7NiItCMOQ8DNEJKSkmUpR+sqrd3FeJhGH3Anq\nSd8ulT5quBMQ+2D8Q+KrJOc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "eshan-barjatya@tranquil-buffer-411417.iam.gserviceaccount.com",
+  "client_id": "103668986905440955283",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/eshan-barjatya%40tranquil-buffer-411417.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
